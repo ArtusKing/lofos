@@ -1,7 +1,7 @@
 #Liste betruegerischer Onlineshops
 #22.10.2021
 #
-12-suchen.de
+0.0.0.0 12-suchen.de
 123brennholz.com
 13de.detoxic.net
 18023.ebizv4l.ebusiness-challenge.at
